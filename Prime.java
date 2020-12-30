@@ -15,7 +15,6 @@ while(i<= num/2){
 }
    i++;
 }
-	//If isPrime is true then the number is prime else not
 	if(isPrime)
 	   System.out.println(num + " is a Prime Number");
 	else
